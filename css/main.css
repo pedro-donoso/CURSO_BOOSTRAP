@@ -1,0 +1,77 @@
+.navbar {
+margin-bottom: 0;
+}
+
+.jumbotron{
+    background: #428bca;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 0;
+    
+}
+
+.titulo-blog{
+    font-size: 30px;
+}
+
+.contenedor{
+    margin-bottom: 20px;
+    padding: 1rem;
+    width: 100%;
+    border: solid 1px red;
+    display: flex;
+}
+
+.mifoto{
+    margin-right: 10px;
+    width: 50%;  
+    height: 50%;
+    border: solid 1px red; 
+    display: flex;
+}
+
+.titulos{
+    color: #333;
+    width: 100%;
+    border: solid 1px red;
+    padding-bottom: 1rem;
+    display: flex;
+}
+
+.fechas{
+    color: #333;
+    width: 100%;
+    border: solid 1px red;
+    
+}
+
+.contenidos{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #999;
+    width: 100%;
+    text-align: justify;
+    border: solid 1px red;
+    padding: 1rem;
+    display: flex;
+}
+
+.botones{
+    width: 100%;
+    border: solid 1px red;
+    
+}
+
+.paginas{
+    text-align: center;
+    border: solid 1px red;
+    padding: 1rem;
+    width: 100%;
+    padding-left: 5rem;
+}
+
+.footer{
+    width: 100%;
+    padding: 1rem;
+}
+ 
